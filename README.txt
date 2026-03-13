@@ -76,10 +76,10 @@ repo/
          |     Download it from Kaggle and place it in the `/datasets` directory.
          └── cleaned_accidents.csv (generated after running 01_data_preprocessing.ipynb)
          └── .gitkeep file just to track the folder, since it is currently empty.
-The code in this repository expects the dataset to be located in a folder named:
+- The code in this repository expects the dataset to be located in a folder named:
  -/datasets
 
-If the dataset is not placed inside the /datasets folder, the code will fail to locate the file and will produce a file path error.
+- If the dataset is not placed inside the /datasets folder, the code will fail to locate the file and will produce a file path error.
 
 2. Run notebooks **in the following order**: 
       - 01_data_preprocessing.ipynb
