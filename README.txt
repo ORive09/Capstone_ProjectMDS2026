@@ -69,6 +69,19 @@ repo/
 └── datasets/
         └── dataset file used for training and analysis
 
+------------
+Dependencies
+------------
+
+This project requires the following Python libraries:
+
+- pandas
+- numpy
+- matplotlib
+- scikit-learn
+- xgboost
+- tensorflow
+- imbalanced-learn
 
 
 Authors
